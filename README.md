@@ -60,7 +60,7 @@ ecommerce-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ecommerce-app.git
+   git clone https://github.com/AmbikaMandhaniya/ecommerce-react-app
    cd ecommerce-app
    ```
 
